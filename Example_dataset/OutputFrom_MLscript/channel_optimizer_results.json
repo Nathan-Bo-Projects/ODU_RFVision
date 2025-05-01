@@ -1,0 +1,177 @@
+{
+    "analysis_timestamp": "2025-04-21 19:34:56",
+    "data_info": {
+        "file": "spectrum_analysis_20250421_192314.csv",
+        "records": 393,
+        "ap_on_records": 360,
+        "ap_off_records": 33
+    },
+    "channel_metrics": {
+        "1": {
+            "avg_power_db": -95.38028333333334,
+            "peak_power_db": -71.43749,
+            "noise_floor_db": -99.980638,
+            "signal_presence_ratio": 0.32350096711798837,
+            "num_detected_peaks": 3.6666666666666665,
+            "adjacent_interference": -94.22905666666666,
+            "spectral_quality": 0.414419320722421,
+            "channel_score": -31.65616680180988
+        },
+        "2": {
+            "avg_power_db": -96.21495866666667,
+            "peak_power_db": -74.12656333333334,
+            "noise_floor_db": -99.752053,
+            "signal_presence_ratio": 0.2553191489361702,
+            "num_detected_peaks": 2.3333333333333335,
+            "adjacent_interference": -94.91291444444444,
+            "spectral_quality": 0.6905380512277285,
+            "channel_score": -37.74875827858141
+        },
+        "3": {
+            "avg_power_db": -88.22351666666667,
+            "peak_power_db": -61.495217999999994,
+            "noise_floor_db": -97.88233966666667,
+            "signal_presence_ratio": 0.5390070921985816,
+            "num_detected_peaks": 7.666666666666667,
+            "adjacent_interference": -94.77172476190476,
+            "spectral_quality": 0.16879420230786002,
+            "channel_score": -21.02317114302722
+        },
+        "4": {
+            "avg_power_db": -98.214538,
+            "peak_power_db": -76.06431866666667,
+            "noise_floor_db": -99.98612333333334,
+            "signal_presence_ratio": 0.07801418439716311,
+            "num_detected_peaks": 1.6666666666666667,
+            "adjacent_interference": -95.16407166666666,
+            "spectral_quality": 0.7414238850275675,
+            "channel_score": -42.80825032080359
+        },
+        "5": {
+            "avg_power_db": -93.11198666666667,
+            "peak_power_db": -70.12598933333334,
+            "noise_floor_db": -99.07898633333333,
+            "signal_presence_ratio": 0.34316569954867826,
+            "num_detected_peaks": 4.333333333333333,
+            "adjacent_interference": -95.62152851851853,
+            "spectral_quality": 0.4699774632851283,
+            "channel_score": -31.594249662007066
+        },
+        "6": {
+            "avg_power_db": -98.33220333333333,
+            "peak_power_db": -72.24428533333334,
+            "noise_floor_db": -99.98576333333334,
+            "signal_presence_ratio": 0.21985815602836878,
+            "num_detected_peaks": 1.3333333333333333,
+            "adjacent_interference": -96.12857555555554,
+            "spectral_quality": 0.7136907378832499,
+            "channel_score": -39.83357405879247
+        },
+        "7": {
+            "avg_power_db": -93.92458666666668,
+            "peak_power_db": -67.444409,
+            "noise_floor_db": -99.16434666666665,
+            "signal_presence_ratio": 0.652482269503546,
+            "num_detected_peaks": 3.6666666666666665,
+            "adjacent_interference": -96.41223014814815,
+            "spectral_quality": 0.20557664831479386,
+            "channel_score": -21.943826364280625
+        },
+        "8": {
+            "avg_power_db": -97.91050000000001,
+            "peak_power_db": -73.08470166666667,
+            "noise_floor_db": -99.98348,
+            "signal_presence_ratio": 0.24113475177304966,
+            "num_detected_peaks": 1.3333333333333333,
+            "adjacent_interference": -97.43581933333333,
+            "spectral_quality": 0.624846617380778,
+            "channel_score": -38.210318091917344
+        },
+        "9": {
+            "avg_power_db": -99.28118333333333,
+            "peak_power_db": -81.32873133333334,
+            "noise_floor_db": -99.98379133333334,
+            "signal_presence_ratio": 0.007092198581560266,
+            "num_detected_peaks": 0.3333333333333333,
+            "adjacent_interference": -97.3245738095238,
+            "spectral_quality": 0.880311906337738,
+            "channel_score": -47.262104385339626
+        },
+        "10": {
+            "avg_power_db": -99.94370666666667,
+            "peak_power_db": -98.09270333333335,
+            "noise_floor_db": -99.98924,
+            "signal_presence_ratio": 0.0,
+            "num_detected_peaks": 0.0,
+            "adjacent_interference": -98.02667166666667,
+            "spectral_quality": 0.9998518427213033,
+            "channel_score": -49.58622397415289
+        },
+        "11": {
+            "avg_power_db": -98.76785,
+            "peak_power_db": -72.02776,
+            "noise_floor_db": -99.98905333333335,
+            "signal_presence_ratio": 0.11347517730496454,
+            "num_detected_peaks": 0.6666666666666666,
+            "adjacent_interference": -97.96556533333333,
+            "spectral_quality": 0.7508509159088134,
+            "channel_score": -43.116728259199576
+        }
+    },
+    "model_performance": {
+        "mse": 1476.216176392608,
+        "mae": 38.41283488132616,
+        "feature_count": 23.0
+    },
+    "recommendations": {
+        "best_overall_channel": 4,
+        "best_standard_channel": 6,
+        "explanation": "The best_overall_channel is the optimal channel based on ML predictions. The best_standard_channel is the best among channels 1, 6, and 11, which are recommended for non-overlapping deployments."
+    },
+    "predictions": [
+        {
+            "channel": 4,
+            "score": -194.58261108398438
+        },
+        {
+            "channel": 10,
+            "score": -195.9961395263672
+        },
+        {
+            "channel": 2,
+            "score": -196.0638885498047
+        },
+        {
+            "channel": 6,
+            "score": -196.1792449951172
+        },
+        {
+            "channel": 8,
+            "score": -196.34490966796875
+        },
+        {
+            "channel": 1,
+            "score": -196.48019409179688
+        },
+        {
+            "channel": 9,
+            "score": -196.6412353515625
+        },
+        {
+            "channel": 11,
+            "score": -196.6826171875
+        },
+        {
+            "channel": 7,
+            "score": -197.15216064453125
+        },
+        {
+            "channel": 3,
+            "score": -197.59927368164062
+        },
+        {
+            "channel": 5,
+            "score": -197.8481903076172
+        }
+    ]
+}

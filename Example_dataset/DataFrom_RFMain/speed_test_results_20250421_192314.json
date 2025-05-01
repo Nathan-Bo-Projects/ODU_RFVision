@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2025-04-21 19:24:42",
+    "channel": 1,
+    "upload_kbps": 388.66955749197757,
+    "download_kbps": 110.25993004672063,
+    "max_upload_kbps": 514.1294448319271,
+    "max_download_kbps": 111.47558528428094
+  },
+  {
+    "timestamp": "2025-04-21 19:25:10",
+    "channel": 2,
+    "upload_kbps": 302.42914209896696,
+    "download_kbps": 73.63833654964077,
+    "max_upload_kbps": 449.3930044844971,
+    "max_download_kbps": 117.54512796234927
+  },
+  {
+    "timestamp": "2025-04-21 19:25:39",
+    "channel": 3,
+    "upload_kbps": 277.37244985550944,
+    "download_kbps": 96.88276513231928,
+    "max_upload_kbps": 369.8781889099261,
+    "max_download_kbps": 121.91995126746134
+  },
+  {
+    "timestamp": "2025-04-21 19:26:12",
+    "channel": 4,
+    "upload_kbps": 286.9160735151067,
+    "download_kbps": 101.00617605759155,
+    "max_upload_kbps": 288.9820322562976,
+    "max_download_kbps": 121.46302182665819
+  },
+  {
+    "timestamp": "2025-04-21 19:26:45",
+    "channel": 5,
+    "upload_kbps": 301.52130717105393,
+    "download_kbps": 30.90053995094747,
+    "max_upload_kbps": 355.40762571188645,
+    "max_download_kbps": 34.00557516130182
+  },
+  {
+    "timestamp": "2025-04-21 19:27:05",
+    "channel": 5,
+    "upload_kbps": 246.52082328582344,
+    "download_kbps": 102.64005540199213,
+    "max_upload_kbps": 336.3634322301669,
+    "max_download_kbps": 107.78126258284271
+  },
+  {
+    "timestamp": "2025-04-21 19:27:39",
+    "channel": 7,
+    "upload_kbps": 358.5500388883802,
+    "download_kbps": 85.10534342262144,
+    "max_upload_kbps": 450.9853972609515,
+    "max_download_kbps": 137.80231522707035
+  },
+  {
+    "timestamp": "2025-04-21 19:28:12",
+    "channel": 8,
+    "upload_kbps": 467.1668937019978,
+    "download_kbps": 81.80559583756067,
+    "max_upload_kbps": 542.1462990920936,
+    "max_download_kbps": 130.494327839045
+  },
+  {
+    "timestamp": "2025-04-21 19:28:45",
+    "channel": 9,
+    "upload_kbps": 329.4246120201676,
+    "download_kbps": 69.90969192665075,
+    "max_upload_kbps": 358.87093048128344,
+    "max_download_kbps": 115.76599301018082
+  },
+  {
+    "timestamp": "2025-04-21 19:29:18",
+    "channel": 10,
+    "upload_kbps": 366.66780593580665,
+    "download_kbps": 127.51754803034498,
+    "max_upload_kbps": 427.2447056666429,
+    "max_download_kbps": 128.66179947517472
+  },
+  {
+    "timestamp": "2025-04-21 19:29:52",
+    "channel": 11,
+    "upload_kbps": 291.63120455401463,
+    "download_kbps": 130.57621982269072,
+    "max_upload_kbps": 346.79346779081123,
+    "max_download_kbps": 138.3262395512078
+  }
+]

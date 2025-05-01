@@ -1,0 +1,21 @@
+WI-FI CHANNEL OPTIMIZER REPORT
+=============================
+
+Analysis completed: 2025-04-21 19:34:56
+Data file: spectrum_analysis_20250421_192314.csv
+Total records analyzed: 393
+
+RECOMMENDATIONS
+--------------
+BEST OVERALL CHANNEL: 4
+BEST STANDARD CHANNEL (1, 6, 11): 6
+
+TOP 5 CHANNELS BY PREDICTED PERFORMANCE:
+1. Channel 4: -194.58
+2. Channel 10: -196.00
+3. Channel 2: -196.06
+4. Channel 6: -196.18
+5. Channel 8: -196.34
+
+NOTE: Higher scores indicate better predicted performance.
+For detailed results, see channel_optimizer_results.json
