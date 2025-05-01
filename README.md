@@ -11,13 +11,9 @@ The WiFi Spectrum Analysis and Optimization System is a comprehensive solution f
 
 Together, these components form a complete workflow that evolves from data collection to machine learning and finally real-time optimization, providing a sophisticated solution for WiFi performance enhancement.
 
-## System Architecture
-
-![System Architecture](https://via.placeholder.com/800x400?text=WiFi+Spectrum+Analysis+Architecture)
-
 ### Hardware Components
 
-- **USRP B200 Software-Defined Radio**: Captures raw RF spectrum data across WiFi bands
+- **USRP 2900 Software-Defined Radio**: Captures raw RF spectrum data across WiFi bands
 - **ESP32 Development Board**: Serves as configurable access point with channel switching
 - **Host Computer**: Runs Python scripts and interfaces with hardware components
 
